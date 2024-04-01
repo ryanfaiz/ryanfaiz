@@ -1,5 +1,4 @@
 ## About Me
-Coding enthusiast with a heart devoted to [Indah JKT48](https://twitter.com/C_IndahJKT48). Navigating the digital realms with a melody of code, inspired by her grace and passion. Pixelating dreams and turning caffeine into creations, one line at a time. 🎶💻 #IndahOshi #JKT48TechExplorer.
 
 ## Client Projects
 1. [Pro Catin Android](https://play.google.com/store/apps/details?id=com.procatin)
